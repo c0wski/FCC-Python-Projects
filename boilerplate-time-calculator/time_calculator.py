@@ -56,8 +56,8 @@ def add_time(start, duration, day = None):
                 new_day = ', ' + days[int(index)]
                 break
             else:
-                  i = i + 1
-                  continue
+                i = i + 1
+                continue
 
     #if more than 24 hrs have passed then
     if final_hour / 24 > 1:
