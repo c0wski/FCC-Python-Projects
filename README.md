@@ -2,9 +2,10 @@
 
 These are my python projects as part of the FCC course.
 
-So far:
-Arithmetic Formatter
+So far:<br>
+Arithmetic Formatter<br>
 Time Calculator
-
+<br>
+<br>
 In progress:
 Budget App
