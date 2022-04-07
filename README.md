@@ -2,8 +2,10 @@
 
 These are my python projects as part of the FCC course.
 
-So far:<br>
 Arithmetic Formatter<br>
 Time Calculator<br>
 Budget App<br>
-Polygon Area Calculator
+Polygon Area Calculator<br>
+Probability Calculator<br>
+<br>
+<a href = https://www.freecodecamp.org/certification/MKowalski/scientific-computing-with-python-v7>Finished!</a>
